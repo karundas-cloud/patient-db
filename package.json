@@ -9,7 +9,8 @@
     "async-await-retry": "^1.0.4",
     "body-parser": "^1.19.0",
     "couchimport": "^1.4.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "newrelic": "^8.6.0"
   },
   "author": "Sai Vennam",
   "engines": {
